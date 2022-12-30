@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tehno-R)](https://git.io/streak-stats)
+
 <!--
 **Tehno-R/Tehno-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
